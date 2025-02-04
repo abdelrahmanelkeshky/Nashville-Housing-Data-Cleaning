@@ -26,9 +26,7 @@
 
 ### 4. ✅ Standardizing Categorical Values
 
-- **Convert SoldAsVacant values:**
-
-- *Replace Y with "Yes" and N with "No" for better readability.*
+- **Convert SoldAsVacant values:** *Replace Y with "Yes" and N with "No" for better readability.*
 
 ### 5. 🗑️ Removing Duplicates
 
